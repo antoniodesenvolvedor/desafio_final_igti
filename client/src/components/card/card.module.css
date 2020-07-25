@@ -1,0 +1,36 @@
+.container {
+  border: solid 1px lightgray;
+  height: 85px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #ecf0f1;
+  margin-top: 10px;
+}
+
+.titleCard {
+  margin-right: 30px;
+  font-weight: bold;
+  font-size: 1.75em;
+}
+
+.money {
+  margin-right: 50px;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+#buttonCreate {
+  margin-right: 15px;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 1.25em;
+}
+
+i:hover {
+  cursor: pointer;
+}

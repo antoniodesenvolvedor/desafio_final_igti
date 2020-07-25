@@ -1,0 +1,38 @@
+.label {
+  font-weight: bold;
+}
+
+.blue {
+  color: #16a085;
+}
+
+.red {
+  color: #c0392b;
+}
+
+.container {
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.flexColumn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.botaoPesquisa {
+  margin-top: 30px;
+}
+
+.div {
+  margin-top: 30px;
+}
